@@ -1,0 +1,7 @@
+{
+    "name": "peminjaman/laptop",
+    "description": "Sistem Peminjaman Laptop IT",
+    "require": {
+        "php": ">=8.0"
+    }
+}
